@@ -2,6 +2,12 @@
 Simple furniture interio design website with some cool css effect
 (Feels free to download it and use)
 
+# Language are used  
+HTML, CSS, SCSS, Bootstrap, JQuery and JavaScript  
+
+# Live at  
+
+
 # Creator
 Created and developed by Soham Goswami..
 
