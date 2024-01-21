@@ -7,7 +7,7 @@ Simple design of furniture interio design ecommerce website with some cool css e
 HTML, CSS, SCSS, Bootstrap, JQuery and JavaScript  
 
 # Live at  
-
+https://sohamgoswami07.github.io/interio-design/
 
 # Creator
 Created and developed by Soham Goswami..
