@@ -1,8 +1,7 @@
-![Screenshot (6)](https://github.com/sohamgoswami07/interio-design/assets/65434681/9b0e7bbb-e170-4b7a-b7f8-597bdd758fe6)
-
 # Interio Design Website (Front-end Development)
 Simple design of furniture interio design ecommerce website with some cool css effect  
 (Feels free to download it and use)
+![Screenshot (6)](https://github.com/sohamgoswami07/interio-design/assets/65434681/9b0e7bbb-e170-4b7a-b7f8-597bdd758fe6)
 
 # Language are used  
 HTML, CSS, SCSS, Bootstrap, JQuery and JavaScript  
