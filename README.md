@@ -1,5 +1,7 @@
+![Screenshot (6)](https://github.com/sohamgoswami07/interio-design/assets/65434681/9b0e7bbb-e170-4b7a-b7f8-597bdd758fe6)
+
 # Interio Design Website (Front-end Development)
-Simple furniture interio design website with some cool css effect  
+Simple design of furniture interio design ecommerce website with some cool css effect  
 (Feels free to download it and use)
 
 # Language are used  
