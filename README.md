@@ -1,5 +1,5 @@
 # Interio Design Website (Front-end Development)
-Simple design of furniture interio design ecommerce website with some cool css effect..  
+Simple design of furniture interio design ecommerce website with some cool css effects..  
 (Feels free to download it and use)
 ![Screenshot (6)](https://github.com/sohamgoswami07/interio-design/assets/65434681/9b0e7bbb-e170-4b7a-b7f8-597bdd758fe6)
 
@@ -7,7 +7,7 @@ Simple design of furniture interio design ecommerce website with some cool css e
 HTML, CSS, SCSS, Bootstrap, JQuery and JavaScript  
 
 # Live at  
-https://sohamgoswami07.github.io/interio-design/
+https://sohamgoswami07.github.io/Interio-Design/
 
 # Creator
 Created and developed by Soham Goswami..
